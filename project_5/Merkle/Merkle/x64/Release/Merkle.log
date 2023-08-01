@@ -1,0 +1,3 @@
+﻿  tree.cpp
+C:\Users\小莹\Desktop\project_5\Merkle\Merkle\sha256.h(303,21): error C2017: 非法的转义序列
+C:\Users\小莹\Desktop\project_5\Merkle\Merkle\tree.h(26,35): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据

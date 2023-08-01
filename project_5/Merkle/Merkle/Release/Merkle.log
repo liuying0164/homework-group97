@@ -1,0 +1,4 @@
+﻿  tree.cpp
+C:\Users\小莹\Desktop\project_5\Merkle\Merkle\sha256.h(303,21): error C2017: 非法的转义序列
+C:\Users\小莹\Desktop\project_5\Merkle\Merkle\tree.h(51,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\小莹\Desktop\project_5\Merkle\Merkle\tree.h(105,20): warning C4018: “<”: 有符号/无符号不匹配
