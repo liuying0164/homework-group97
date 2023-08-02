@@ -1,0 +1,13 @@
+﻿  rho_attack.cpp
+  sm3.cpp
+C:\Users\小莹\Desktop\sm3_rho\sm3.cpp(7,51): warning C4838: 从“unsigned int”转换到“int”需要收缩转换
+C:\Users\小莹\Desktop\sm3_rho\sm3.cpp(7,63): warning C4838: 从“unsigned int”转换到“int”需要收缩转换
+C:\Users\小莹\Desktop\sm3_rho\sm3.cpp(7,87): warning C4838: 从“unsigned int”转换到“int”需要收缩转换
+C:\Users\小莹\Desktop\sm3_rho\sm3.cpp(7,99): warning C4838: 从“unsigned int”转换到“int”需要收缩转换
+C:\Users\小莹\Desktop\sm3_rho\sm3.cpp(64,48): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\小莹\Desktop\sm3_rho\sm3.cpp(66,30): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\小莹\Desktop\sm3_rho\sm3.cpp(72,57): warning C4309: “=”: 截断常量值
+C:\Users\小莹\Desktop\sm3_rho\sm3.cpp(87,57): warning C4309: “=”: 截断常量值
+  正在生成代码...
+C:\Users\小莹\Desktop\sm3_rho\sm3.cpp(98): warning C4715: “bit_stuffing”: 不是所有的控件路径都返回值
+  sm3__.vcxproj -> C:\Users\小莹\Desktop\sm3__\x64\Debug\sm3__.exe
