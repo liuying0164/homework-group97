@@ -1,0 +1,37 @@
+﻿sm2.obj : error LNK2019: 无法解析的外部符号 irand，函数 sm2_encrypt 中引用了该符号
+sm2.obj : error LNK2019: 无法解析的外部符号 zero，函数 sm2_sign 中引用了该符号
+sm2.obj : error LNK2019: 无法解析的外部符号 mirvar，函数 sm2_decrypt 中引用了该符号
+sm2.obj : error LNK2019: 无法解析的外部符号 exsign，函数 sm2_sign 中引用了该符号
+sm2.obj : error LNK2019: 无法解析的外部符号 insign，函数 sm2_verify 中引用了该符号
+sm2.obj : error LNK2019: 无法解析的外部符号 copy，函数 sm2_sign 中引用了该符号
+sm2.obj : error LNK2019: 无法解析的外部符号 mr_compare，函数 sm2_sign 中引用了该符号
+sm2.obj : error LNK2019: 无法解析的外部符号 add，函数 sm2_sign 中引用了该符号
+sm2.obj : error LNK2019: 无法解析的外部符号 subtract，函数 sm2_sign 中引用了该符号
+sm2.obj : error LNK2019: 无法解析的外部符号 incr，函数 sm2_sign 中引用了该符号
+sm2.obj : error LNK2019: 无法解析的外部符号 bytes_to_big，函数 sm2_sign 中引用了该符号
+sm2.obj : error LNK2019: 无法解析的外部符号 big_to_bytes，函数 sm2_decrypt 中引用了该符号
+sm2.obj : error LNK2019: 无法解析的外部符号 multiply，函数 sm2_sign 中引用了该符号
+sm2.obj : error LNK2019: 无法解析的外部符号 divide，函数 sm2_sign 中引用了该符号
+sm2.obj : error LNK2019: 无法解析的外部符号 mad，函数 sm2_sign 中引用了该符号
+sm2.obj : error LNK2019: 无法解析的外部符号 epoint_init，函数 sm2_decrypt 中引用了该符号
+sm2.obj : error LNK2019: 无法解析的外部符号 cotnum，函数 test_sm2_sign 中引用了该符号
+sm2.obj : error LNK2019: 无法解析的外部符号 xgcd，函数 sm2_sign 中引用了该符号
+sm2.obj : error LNK2019: 无法解析的外部符号 logb2，函数 sm2_sign 中引用了该符号
+sm2.obj : error LNK2019: 无法解析的外部符号 sftbit，函数 sm2_sign 中引用了该符号
+sm2.obj : error LNK2019: 无法解析的外部符号 bigrand，函数 sm2_encrypt 中引用了该符号
+sm2.obj : error LNK2019: 无法解析的外部符号 point_at_infinity，函数 sm2_decrypt 中引用了该符号
+sm2.obj : error LNK2019: 无法解析的外部符号 ecurve_mult，函数 sm2_decrypt 中引用了该符号
+sm2.obj : error LNK2019: 无法解析的外部符号 ecurve_mult2，函数 sm2_verify 中引用了该符号
+sm2.obj : error LNK2019: 无法解析的外部符号 epoint_set，函数 sm2_decrypt 中引用了该符号
+sm2.obj : error LNK2019: 无法解析的外部符号 epoint_get，函数 sm2_decrypt 中引用了该符号
+sm2.obj : error LNK2019: 无法解析的外部符号 UninitMiracl，函数 test_sm2 中引用了该符号
+sm2.obj : error LNK2019: 无法解析的外部符号 CompressPoint，函数 sm2_encrypt 中引用了该符号
+sm2.obj : error LNK2019: 无法解析的外部符号 DecompressPoint，函数 sm2_decrypt 中引用了该符号
+sm2.obj : error LNK2019: 无法解析的外部符号 InitECC，函数 test_sm2 中引用了该符号
+sm2.obj : error LNK2019: 无法解析的外部符号 GetDigestSize，函数 sm2_decrypt 中引用了该符号
+sm2.obj : error LNK2019: 无法解析的外部符号 GetDigestFunc，函数 sm2_decrypt 中引用了该符号
+sm2.obj : error LNK2019: 无法解析的外部符号 u32to8_big，函数 KDF 中引用了该符号
+sm2.obj : error LNK2019: 无法解析的外部符号 output_buf，函数 test_sm2 中引用了该符号
+sm2.obj : error LNK2019: 无法解析的外部符号 xor_buf，函数 sm2_decrypt 中引用了该符号
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 main，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号
+C:\Users\小莹\Desktop\CryptoImp-main\sm2_sign\x64\Debug\sm2_sign.exe : fatal error LNK1120: 36 个无法解析的外部命令
